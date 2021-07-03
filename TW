@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1,翡翠台 1080P
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1,无线新闻 1080P
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1,明珠台HD
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1,J2 1080P
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1,无线财经资讯台 1080P
+https://cdn.hkdtmb.com/hls/85/index.m3u8
+#EXTINF:-1,ViuTV 1080P
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1,ViuTV 6HD
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1,香港国际财经
+https://cdn.hkdtmb.com/hls/76/index.m3u8
+#EXTINF:-1,开电视
+https://cdn.hkdtmb.com/hls/77/index.m3u8
+#EXTINF:-1,RTHK31
+https://cdn.hkdtmb.com/hls/31/index.m3u8
+#EXTINF:-1,RTHK32
+https://cdn.hkdtmb.com/hls/32/index.m3u8
+#EXTINF:-1,RTHK33
+https://cdn.hkdtmb.com/hls/33/index.m3u8
+#EXTINF:-1,壹新聞
+http://stream.nexttv.com.tw/n001/playlist.m3u8
+#EXTINF:-1,壹新聞
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1,民視新聞
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1,民视新闻台
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1,三立Live新闻
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1,三立iNews新闻
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1,中天新闻
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1,東森新闻
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1,华視新闻
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1,TVBS新闻
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1,中視新闻
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1,台視新闻
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1,民視新聞台
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1,東森財經新聞台
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1,開電視
+http://livetv.dnsfor.me:80/channel.9.m3u8
+#EXTINF:-1,無綫新聞台
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1,無綫財經資訊台
+http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1,翡翠台
+http://livetv.dnsfor.me:80/channel.18.m3u8
+#EXTINF:-1,J2
+http://livetv.dnsfor.me:80/channel.19.m3u8
+#EXTINF:-1,VIU TV
+http://livetv.dnsfor.me:80/channel.20.m3u8
+#EXTINF:-1,开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1,开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8

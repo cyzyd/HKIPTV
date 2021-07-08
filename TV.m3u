@@ -10,7 +10,8 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m
 #EXTINF:-1,group-title="央视",CCTV-2ᴴᴰ
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226915/index.m3u8
 #EXTINF:-1,group-title="央视",CCTV-3
-http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8#EXTINF:-1,group-title="央视",CCTV-3ᴴᴰ
+http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1,group-title="央视",CCTV-3ᴴᴰ
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229875/index.m3u8
 #EXTINF:-1,group-title="央视",CCTV-4
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8
@@ -42,8 +43,6 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226923/index.m3u8
 #EXTINF:-1,group-title="央视",CCTV-11
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
-#EXTINF:-1,group-title="央视",CCTV-11
-http://39.135.230.89/ott.fj.chinamobile.com/PLTV/88888888/224/3221226927/index.m3u8
 #EXTINF:-1,group-title="央视",CCTV-12
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
 #EXTINF:-1,group-title="央视",CCTV-12
@@ -84,8 +83,6 @@ http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225629/index.m3u8
 #EXTINF:-1,group-title="央视",CCTV13
 http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1,group-title="央视",CCTV14
-http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
 #EXTINF:-1,group-title="央视",CCTV15
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1,group-title="央视",CCTV17
@@ -110,12 +107,8 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225827/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226935/index.m3u8
 #EXTINF:-1,group-title="卫视",广东卫视
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
-#EXTINF:-1,group-title="卫视",广东卫视ᴴᴰ
-http://183.207.255.190/live/program/live/gdwshd/4000000/mnf.m3u8
 #EXTINF:-1,group-title="卫视",深圳卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225848/index.m3u8
-#EXTINF:-1,group-title="卫视",深圳卫视ᴴᴰ
-http://183.207.255.190/live/program/live/szwshd/4000000/mnf.m3u8
 #EXTINF:-1,group-title="卫视",四川卫视ᴴᴰ
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/index.m3u8
 #EXTINF:-1,group-title="卫视",安徽卫视
@@ -154,7 +147,7 @@ http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227000/index.m3u8
 #EXTINF:-1,group-title="卫视",海峡卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8
-#EXTINF:-1,"group-title="娛樂","CHC动作电影
+#EXTINF:-1,"group-title="娛樂",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1,"group-title="娛樂",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -258,8 +251,6 @@ http://198.16.106.62:8278/streams/d/ctinews/playlist.m3u8
 http://198.16.106.62:8278/streams/d/ctient/playlist.m3u8
 #EXTINF:-1,group-title="娛樂",中天综合
 http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
-#EXTINF:-1,group-title="娛樂",民视
-http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
 #EXTINF:-1,group-title="娛樂",民视台湾台
 http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
 #EXTINF:-1,group-title="娛樂",三立台湾
@@ -316,12 +307,8 @@ http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1,group-title="体育",CCTV5
 http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1,group-title="体育",CCTV5
-http://183.207.255.190/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1,group-title="体育",CCTV5+
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
-#EXTINF:-1,group-title="体育",CCTV5+
-http://183.207.255.190/live/program/live/cctv5phd/4000000/mnf.m3u8
 #EXTINF:-1,group-title="体育",CCTV5+
 http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1,group-title="体育",劲爆体育

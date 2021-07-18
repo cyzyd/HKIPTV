@@ -147,9 +147,9 @@ http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227000/index.m3u8
 #EXTINF:-1,group-title="卫视",海峡卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8
-#EXTINF:-1,"group-title="娛樂",CHC动作电影
+#EXTINF:-1,group-title="娛樂",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1,"group-title="娛樂",CHC家庭影院
+#EXTINF:-1,group-title="娛樂",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1,group-title="娛樂",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -303,6 +303,26 @@ http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1,group-title="娛樂",迪士尼少年
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",NHK·华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",NHK·国际频道
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 group-title="其他频道",TVB·电视剧台
+https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",KIX·动作频道
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="其他频道",Astro·BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",Astro·Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",Astro·华丽台
+http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",Astro·全佳台
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",Astro·双星台
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",Astro·小太阳
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 #EXTINF:-1,group-title="体育",CCTV5
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1,group-title="体育",CCTV5
@@ -347,25 +367,25 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
 #EXTINF:-1,group-title="体育",超级体育3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
-#EXTINF:-1,group-title="体育",上海纪实ᴴᴰ
+#EXTINF:-1,group-title="其他频道",上海纪实ᴴᴰ
 http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
-#EXTINF:-1,group-title="体育",上海纪实ᴴᴰ
+#EXTINF:-1,group-title="其他频道",上海纪实ᴴᴰ
 http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1,group-title="体育",北京纪实ᴴᴰ
+#EXTINF:-1,group-title="其他频道",北京纪实ᴴᴰ
 http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
-#EXTINF:-1,group-title="体育",北京纪实ᴴᴰ
+#EXTINF:-1,group-title="其他频道",北京纪实ᴴᴰ
 http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
-#EXTINF:-1,group-title="体育",求索动物
+#EXTINF:-1,group-title="其他频道",求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1,group-title="体育",求索科学
+#EXTINF:-1,group-title="其他频道",求索科学
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1,group-title="体育",求索记录
+#EXTINF:-1,group-title="其他频道",求索记录
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1,group-title="体育",求索记录4K
+#EXTINF:-1,group-title="其他频道",求索记录4K
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1,group-title="体育",求索动物ᴴᴰ
+#EXTINF:-1,group-title="其他频道",求索动物ᴴᴰ
 http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1,group-title="体育",求索科学ᴴᴰ
+#EXTINF:-1,group-title="其他频道",求索科学ᴴᴰ
 http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1,group-title="体育",求索生活
+#EXTINF:-1,group-title="其他频道",求索生活
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8

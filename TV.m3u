@@ -173,8 +173,6 @@ https://cdn.hkdtmb.com/hls/84b/index.m3u8
 https://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1,group-title="新聞",无线新闻
 http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-#EXTINF:-1,group-title="新聞",无线新闻(备)
-http://livetv.dnsfor.me:80/channel.10.m3u8
 #EXTINF:-1,group-title="新聞",无线财经资讯台
 http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 #EXTINF:-1,group-title="新聞",无线财经资讯台ᴴᴰ
@@ -237,9 +235,7 @@ http://seb.sason.top/sc/hsxw_fhd.m3u8
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1,group-title="新聞",台視新聞
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1,group-title="新聞",TVBS新聞
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1,group-title="新聞",TVBS新闻台
+#EXTINF:-1,group-title="新聞",TVBS新闻
 http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 #EXTINF:-1,group-title="娛樂",TVBS欢乐台
 http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8

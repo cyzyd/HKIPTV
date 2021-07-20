@@ -271,18 +271,10 @@ http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
 http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
 #EXTINF:-1,group-title="娛樂",MTV直播
 http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
-#EXTINF:-1,group-title="娛樂",MTV
-http://190.2.155.162:8080/mtvfrance/mpegts
-#EXTINF:-1,group-title="娛樂",三立戏剧台
-http://198.16.106.62:8278/sanlixiju_zero/playlist.m3u8
-#EXTINF:-1,group-title="娛樂",爱尔达体育3台
-http://198.16.106.62:8278/eltasport3_zero/playlist.m3u8
 #EXTINF:-1,group-title="娛樂",爱尔达综合台
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 #EXTINF:-1,group-title="娛樂",发现夏娃
 http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
-#EXTINF:-1,group-title="娛樂",BBC Earthᴴᴰ
-http://198.16.106.62:8278/streams/d/bbcearthᴴᴰ_zero/playlist.m3u8
 #EXTINF:-1,group-title="娛樂",BBC地球生活方式
 http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 #EXTINF:-1,group-title="娛樂",豪华电视

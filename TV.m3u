@@ -387,3 +387,5 @@ http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1,group-title="其他频道",求索生活
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1,group-title="其他频道",午夜纸浆（1080p）
+https://midnightpulp-samsung.plex.wurl.com/manifest/playlist.m3u8
